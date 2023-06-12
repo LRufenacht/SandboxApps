@@ -1,9 +1,7 @@
-﻿{
-	"samples": [
-		{
-			"name": "Wisej.NET Web App 1",
-			"documentation": "https://docs.wisej.com/docs",
-			"path": "WisejWebApplication1"
-		}
-	]
-}
+﻿[
+	{
+		"name": "Wisej.NET Web App 1",
+		"documentation": "https://docs.wisej.com/docs",
+		"path": "WisejWebApplication1"
+	}
+]
